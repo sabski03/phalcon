@@ -1,0 +1,25 @@
+{
+  "name": "saba/phalcon-admin",
+  "description": "Phalcon Admin for the Phalcon PHP Framework",
+  "keywords": [
+    "phalcon",
+    "PhalconAdmin"
+  ],
+  "support": {
+    "issues": "https://github.com/saba/phalcon-admin/issues",
+    "source": "https://github.com/saba/phalcon-admin"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Saba Aminashvili",
+      "email": "saba27ge@gmail.com",
+    }
+  ],
+  "require": {
+    "php": ">=7.3",
+    "ext-phalcon": "^4.0.6",
+    "phalcon/migrations": "^2.2",
+    "swiftmailer/swiftmailer": "^6.2"
+  }
+}
