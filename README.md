@@ -2,19 +2,20 @@
 
 Admin Page for the Phalcon PHP Framework
 
-![Screenshot from 2023-06-18 15-50-57](https://github.com/sabski03/Phalcon-Admin/assets/61045287/4e73a3dd-b3a6-4d5c-9c33-884b3f14c9f4)
-![Screenshot from 2023-06-18 15-51-46](https://github.com/sabski03/Phalcon-Admin/assets/61045287/cae9cbdd-c199-4388-8843-23737f83f819)
-![Screenshot from 2023-06-18 15-51-53](https://github.com/sabski03/Phalcon-Admin/assets/61045287/c7e7b3fd-42e4-494b-b256-85e8df625338)
-![Screenshot from 2023-06-18 15-51-58](https://github.com/sabski03/Phalcon-Admin/assets/61045287/92ec8126-073b-48f8-9afa-9ed8c24c7c35)
-![Screenshot from 2023-06-18 15-52-20](https://github.com/sabski03/Phalcon-Admin/assets/61045287/75bb27b5-827e-4839-9886-50f38868923d)
-![Screenshot from 2023-06-18 15-54-06](https://github.com/sabski03/Phalcon-Admin/assets/61045287/8396e2c6-741b-4770-b95e-4a1929b5847e)
-![Screenshot from 2023-06-18 15-54-16](https://github.com/sabski03/Phalcon-Admin/assets/61045287/f226c390-927b-4dba-992c-ca026e0c11b5)
-![Screenshot from 2023-06-18 15-54-24](https://github.com/sabski03/Phalcon-Admin/assets/61045287/5920cb0f-c61a-447c-b0e5-edb85c838844)
-![Screenshot from 2023-06-18 15-54-32](https://github.com/sabski03/Phalcon-Admin/assets/61045287/4d8bb70a-1f5b-4981-aaf0-38955a8851d2)
-![Screenshot from 2023-06-18 15-54-45](https://github.com/sabski03/Phalcon-Admin/assets/61045287/ce03db67-e544-4088-8ea6-026ca995daab)
-![Screenshot from 2023-06-18 15-56-08](https://github.com/sabski03/Phalcon-Admin/assets/61045287/08ddaa92-07d0-4689-a46b-ab567f6656b0)
-![Screenshot from 2023-06-18 15-56-11](https://github.com/sabski03/Phalcon-Admin/assets/61045287/3b610a29-2e2f-4837-a54a-fda5f177851e)
-![Screenshot from 2023-06-18 15-56-17](https://github.com/sabski03/Phalcon-Admin/assets/61045287/f53eb35c-2e5e-4e45-91cb-02b671627823)
+![Screenshot from 2023-06-18 15-50-57](https://github.com/sabski03/phalcon/assets/61045287/bb0d75c8-44a9-46eb-bac0-4911e8ec3ac3)
+![Screenshot from 2023-06-18 15-51-46](https://github.com/sabski03/phalcon/assets/61045287/08da05b4-a9d1-462a-b46d-8a91f710b31b)
+![Screenshot from 2023-06-18 15-51-53](https://github.com/sabski03/phalcon/assets/61045287/eb53b68f-4722-4c87-8668-410c84b65193)
+![Screenshot from 2023-06-18 15-51-58](https://github.com/sabski03/phalcon/assets/61045287/7c120c0e-5b48-4d5b-b32f-f9a4bc92ff2d)
+![Screenshot from 2023-06-18 15-52-20](https://github.com/sabski03/phalcon/assets/61045287/17fd04a2-2e33-4bdd-8d49-d1cc4fdbbfde)
+![Screenshot from 2023-06-18 15-54-06](https://github.com/sabski03/phalcon/assets/61045287/1b9e6510-35dc-44f5-8ba8-ab8c6a7d917f)
+![Screenshot from 2023-06-18 15-54-16](https://github.com/sabski03/phalcon/assets/61045287/5d919727-5ee9-48c5-9617-e4ae66fde035)
+![Screenshot from 2023-06-18 15-54-24](https://github.com/sabski03/phalcon/assets/61045287/c4a852a2-d39b-4513-ab2b-a281b49168ca)
+![Screenshot from 2023-06-18 15-54-32](https://github.com/sabski03/phalcon/assets/61045287/407c178e-e6f7-44f7-b1bf-8056e559258a)
+![Screenshot from 2023-06-18 15-54-45](https://github.com/sabski03/phalcon/assets/61045287/da2eeebb-472c-49d3-a442-02a7f6438a1d)
+![Screenshot from 2023-06-18 15-56-08](https://github.com/sabski03/phalcon/assets/61045287/ffaa87ab-f766-4ea9-bec0-7e1ae5be6872)
+![Screenshot from 2023-06-18 15-56-11](https://github.com/sabski03/phalcon/assets/61045287/6038d154-3f3b-46a7-9268-763a2dcb6872)
+![Screenshot from 2023-06-18 15-56-17](https://github.com/sabski03/phalcon/assets/61045287/53c369c6-16ae-4ea3-93c8-22b83705093a)
+
 
 
 
